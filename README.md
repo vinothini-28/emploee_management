@@ -1,4 +1,4 @@
-Certainly! Below is a basic template for a README file tailored for a Django project:
+If you don't have a specific license for your project, you can simply mention that in the README file. Here's a revised version of the README file without the license section:
 
 ---
 
@@ -50,12 +50,4 @@ The Employee Management System is a web application built using Django that allo
 
 4. **Deleting Employees**: To delete an employee from the system, click on the "Delete" button next to their details. Confirm the action when prompted.
 
-## Contributing
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this template to better fit your project's specific features and requirements.
